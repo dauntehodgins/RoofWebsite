@@ -1,0 +1,7 @@
+header{background-color: grey}
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  width:150px; display:block;float:left;
+}
